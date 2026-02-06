@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rolmer, a not very experienced programmer, but a enthusiastic and motivated studant
+- 👋 Hi, I’m Rolmer, i'm not a perfect coder, but a enthusiastic and motivated studant
 - 👀 I’m interested in be better, contribuite for my company ans help people to code better
 - 🌱 I’m currently learning AWS, node, python
 - 💞️ I’m looking to collaborate on dabases. That's what a really know aboutr
